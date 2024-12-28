@@ -8,7 +8,7 @@ the 6 key responsibilities of a data engineering are
 3. Schedule, execute and Monitor data pipelines
 4. Serve data to end users
 5. Data strategy for the company
-6. ***Deploy ML Models for production
+6. Deploy ML Models for production
 
 > [!NOTE] 
 > #### enabling data analytics
