@@ -1,5 +1,5 @@
 
-## 1 key responsibilities of a data engineering
+## 1. key responsibilities of a data engineering
 
 the 6 key responsibilities of a data engineering are
 
