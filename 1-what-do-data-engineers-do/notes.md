@@ -24,7 +24,7 @@ the 6 key responsibilities of a data engineering are
 > >
 > > The Main questions to answer here would be what data would I be collecting and from where, so the main requirements I would need to gather is what is the nature of this data ? is this is data from a rest api ? or is this data of some other format ? maybe from an iot sensor ?. These questions require investigation and active collaboration with my employer who wants to enable data analytics.
 > > 
-> > When the nature of the data is established, a clear understanding of where the data is coming from needs to established ? if its a rest api then I must setup a proper system to communicate with this rest api and transform it into a format that is suitable to how I want to store it.
+> > When the nature of the data is established, a clear understanding of where the data is coming from needs to established  if its a rest api then I must setup a proper system to communicate with this rest api and transform it into a format that is suitable to how I want to store it.
 >
 > >#### Data Storage
 > >
@@ -32,4 +32,4 @@ the 6 key responsibilities of a data engineering are
 > >
 > >This would involve setting up our very own data warehouse and modelling our data warehouse for loading our data and ensuing the quality of the data and efficiency of the data warehouse in terms of performance when querying the data. 
 > 
-> Once the investigation of the source and nature of the data and model of our storage, I would create a ETL pipeline to extract data from our source location, transform into suitable form and load it into our data warehouse. This data warehouse. can be queried from in BI application to get data analytics.
+> Once the investigation of the source and nature of the data and model of our storage, I would create a ETL pipeline to extract data from our source location, transform into suitable form and load it into our data warehouse. This data warehouse. can be queried from in a BI application to get data analytics.
